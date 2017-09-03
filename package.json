@@ -1,5 +1,5 @@
 {
-  "name": "availity-reactstrap-validation",
+  "name": "availity-reactstrap-validation-mobx",
   "version": "1.4.3",
   "author": "Evan Sharp <evan.sharp@availity.com>",
   "description": "Form validation helpers for reactstrap",
