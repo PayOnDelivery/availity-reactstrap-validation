@@ -1,9 +1,12 @@
-[![Build Status](https://travis-ci.org/Availity/availity-reactstrap-validation.svg?branch=master)](https://travis-ci.org/Availity/availity-reactstrap-validation) [![Coverage Status](https://coveralls.io/repos/github/Availity/availity-reactstrap-validation/badge.svg?branch=master)](https://coveralls.io/github/Availity/availity-reactstrap-validation?branch=master)
-
 # availity-reactstrap-validation
 
 Easy to use React validation components compatible for reactstrap.
 
+## This is not the original availity package
+
+This release is an interim publishing of a [commit](https://github.com/nylon22/availity-reactstrap-validation/commit/2c7f63177928da3e27e393ecaa18b88a8038546d#diff-b9cfc7f2cdf78a7f4b91a753d10865a2) on issue [#15](https://github.com/Availity/availity-reactstrap-validation/issues/15) which addresses shortcomings which makes availity not work well with mobx.
+
+This is (hopefully) **NOT** a long-lived release, it exists until something more official is released.
 
 ## Installation
 
